@@ -1,5 +1,5 @@
-# crawler
-Simple web crawler application in java
+# Web crawler
+Simple web crawler application in java.
 
 # To run application:
 1. Clone repository from GIT
@@ -16,3 +16,7 @@ JDK version 8+
 Apache Maven version 3+
 
 
+#Future improvement:
+Multithreading implementation to speed crawling process.
+Integration with Database to save results
+Build application as service with scheduled crawling process
